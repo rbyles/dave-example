@@ -1,0 +1,42 @@
+{
+  "events": [
+    {
+      "Name": "TDP Lunch",
+      "date": "23/12/2019",
+      "Cohort": "All",
+      "Description": "Its a lunch, pretty self explanatory"
+    },
+    {
+      "Name": "TDP Lunch2",
+      "date": "24/12/2019",
+      "Cohort": "Sep20",
+      "Description": "Keep them weirdos seperate"
+    },
+    {
+      "Name": "TDP Dinner",
+      "date": "26/12/2019",
+      "Cohort": "May19",
+      "Description": "Its a dinner, pretty self explanatory"
+    },
+    {
+      "Name": "TDP Paintballing",
+      "date": "5/12/2019",
+      "Cohort": "Sep18",
+      "Description": "Shoot Dave in the face with paint, all the daves."
+    },
+    {
+      "Name": "TDP Swimming",
+      "date": "23/12/2020",
+      "Cohort": "All",
+      "Description": "Far enough away for richard to get in shape and feel comfortable in his bikini"
+    }
+  ],
+  "events_that_wont_be _displayed": [
+    {
+      "Name": "TDP Dave Molesting",
+      "date": "23/12/2020",
+      "Cohort": "All",
+      "Description": "Should be fun"
+    }
+  ]
+}

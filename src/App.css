@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+  background-color: grey;
+}
+
+.App-logo {
+  height: 40vmin;
+  background-color: grey;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 5vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.eventContainer {
+  background-color: rgba(0, 0, 30, 0.4);
+  width: 50%;
+  margin: auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  border-radius: 5px;
+  padding: 10px 0;
+}
+
+.eventLine {
+  background-color: rgba(200, 200, 200, 0.4);
+  border: black 1px;
+  padding: 5px;
+  margin: auto;
+  margin-bottom: 6px;
+  width: 90%;
+}
+
+.eventDetails {
+  margin-bottom: 0.5em;
+}
+
+.eventDetails p {
+  padding: 0px 3em;
+  display: inline;
+}
+
+.eventDesc {
+  width: 80%;
+  margin: auto;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  padding: 10px;
+}
+
+.eventTitle {
+  font-size: 2em;
+}
